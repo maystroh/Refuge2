@@ -35,6 +35,9 @@ Validation input:
 
 multiSeg.ipynb
 
+# Copyright
+Copyright © 2018-2019 [LaTIM U1101 Inserm](http://latim.univ-brest.fr/)
+
 This file we try to segment disc and cup at the same time, input is two masks, one only disc and another is cup.
 
 We try to calculate binary crossentry and CDR as loss, but not yet finish.
